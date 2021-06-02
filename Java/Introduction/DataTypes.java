@@ -47,5 +47,6 @@ class DataTypes{
             }
 
         }
+        sc.close(); //Instead of memorizing the values, you can do it in a better way
     }
 }
